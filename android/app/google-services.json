@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37135938404",
+    "project_id": "login-react-193c0",
+    "storage_bucket": "login-react-193c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37135938404:android:54f85761e99d45dda8c071",
+        "android_client_info": {
+          "package_name": "com.example.axolotl_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBGEbNd0H814YXkCwOhZ4L0cvLkbmGNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37135938404:android:49d88b944ec4a3fda8c071",
+        "android_client_info": {
+          "package_name": "com.mestizo.axolotl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBGEbNd0H814YXkCwOhZ4L0cvLkbmGNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
